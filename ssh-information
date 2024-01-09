@@ -1,0 +1,5 @@
+You should use ssh to reach the Safeclai codes.
+
+```
+ssh username@IP 
+```
