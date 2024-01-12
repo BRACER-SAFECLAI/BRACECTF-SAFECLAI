@@ -1,5 +1,5 @@
 You should use ssh to reach the Safeclai codes.
 
 ```
-ssh username@192.168.1.169
+ssh username@10.40.25.44
 ```
